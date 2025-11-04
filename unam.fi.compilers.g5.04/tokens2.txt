@@ -1,0 +1,2 @@
+Keyword Identifier Operator Constant Punctuation
+Total of tokens: 5

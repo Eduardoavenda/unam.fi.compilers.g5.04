@@ -1,0 +1,2 @@
+Keyword Identifier Punctuation Punctuation Punctuation Keyword Identifier Punctuation Identifier Operator Constant Punctuation Identifier Operator Constant Punctuation Identifier Operator Constant Punctuation Identifier Operator Identifier Operator Identifier Operator Identifier Punctuation Identifier Punctuation Literal Punctuation Identifier Punctuation Punctuation Keyword Constant Punctuation Punctuation
+Total of tokens: 39
